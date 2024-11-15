@@ -1,3 +1,6 @@
+-- Insert three job postings into the data_science_jobs table. 
+-- Make sure each job posting has a unique job_id, a job_title, a company_name, and a post_date
+
 INSERT INTO data_science_jobs (job_id, job_title, company_name, posted_date)
 VALUES
     (1, 'Data Scientist', 'Tech Innovations', '2023-01-01'),
